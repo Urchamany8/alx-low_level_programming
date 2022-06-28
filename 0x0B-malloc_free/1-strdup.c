@@ -1,4 +1,4 @@
-#include "mai:n.h"
+#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -32,3 +32,4 @@ else
 }
 return (m);
 }
+
